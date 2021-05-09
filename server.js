@@ -7,6 +7,7 @@ const cors = require("cors")
 
 const projects = require("./projects.json");
 const about = require("./about.json");
+const home = require("./home.json")
 
 //Create our app object
 
