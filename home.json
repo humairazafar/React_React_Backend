@@ -6,17 +6,17 @@
       "para": "I use my knowledge of software development and my experience in workforce and community development to code, deploy, and maintain modern web applications. When I am working on a project, I enjoy the outdoors with my camera and macro lens to take macro shots of amazing little creatures around us."
     },
     {
-      "skill name": "Development Approach",
-      "skill description": "I write restrable, targeted code using the latest software development practices "
+      "skill": "Development Approach",
+      "description": "I write restrable, targeted code using the latest software development practices "
 
     },
     {
-      "skill name": "project management and collbration",
-      "skill description": "with my experinec in community and workforce development program manager, I am well versed in project management, and team building mechanics to acheive outcomes and deliverables"
+      "skill": "project management and collbration",
+      "description": "with my experinec in community and workforce development program manager, I am well versed in project management, and team building mechanics to acheive outcomes and deliverables"
     },
     {
-      "skill name": "Learning",
-      "skill description":"My expereince in workforce development and porfessional career coach as taught me how to be learn and guide self learning porcess, I take pride in my  approach to consistent porfessional development ad softeware developer "
+      "skill": "Learning",
+      "description":"My expereince in workforce development and porfessional career coach as taught me how to be learn and guide self learning porcess, I take pride in my  approach to consistent porfessional development ad softeware developer "
     }
 
     ]
