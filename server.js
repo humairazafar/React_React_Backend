@@ -16,9 +16,9 @@ const app = express();
 //set up middleware
 app.use(cors());
 
-//home route for testing our app
+//home route for sending our home.json file
 app.get("/", (req, res) => {
-    res.send("Hello World");
+    res.json(home);
 });
 
 //route for retrieving projects
